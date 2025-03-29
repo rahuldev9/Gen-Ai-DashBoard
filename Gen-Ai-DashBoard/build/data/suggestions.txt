@@ -1,0 +1,99 @@
+What were the total sales last week?
+Which product had the highest revenue last month?
+How many active users did we have in the last six months?
+What is the customer churn rate this year?
+What are the top 5 best-selling products this quarter?
+How does revenue compare to last year's performance?
+Which region generated the most sales last month?
+What is the average order value in the last three months?
+What is the conversion rate from website visitors to customers?
+Which marketing channel brought in the most leads last quarter?
+What is the profit margin per product category?
+Which cities contributed the most to sales revenue?
+How many new customers did we acquire last month?
+What is the customer retention rate over the past year?
+How many returning customers made a purchase this month?
+What are the top reasons for customer complaints?
+How many refunds were processed in the last quarter?
+What is the click-through rate for email campaigns?
+Which products have the highest cart abandonment rate?
+What is the average time a user spends on our website?
+How many users signed up for our loyalty program last month?
+Which days of the week have the highest online traffic?
+What percentage of sales come from mobile users?
+Which payment methods are most popular among customers?
+What is the revenue per employee?
+Which departments have the highest operational costs?
+What is the total cost of goods sold this quarter?
+How much revenue is generated from repeat purchases?
+What is the average discount applied per transaction?
+What is the cost per acquisition for new customers?
+Which social media platform drives the most traffic?
+What is the bounce rate of our landing pages?
+How many support tickets were created last month?
+What is the average response time for customer service?
+Which marketing campaign had the highest ROI?
+What is the revenue generated from subscription-based services?
+How many customers upgraded their plans last quarter?
+Which country has the fastest-growing customer base?
+What is the monthly active user count?
+Which age group makes the most purchases?
+What is the gender distribution of our customer base?
+How many users completed the checkout process?
+Which product categories have the highest return rates?
+What percentage of users abandoned their shopping carts?
+Which products have the highest user ratings?
+How many orders were shipped internationally last month?
+What is the cost per lead for paid advertising?
+Which influencers drive the most sales?
+What is the impact of seasonal discounts on sales?
+Which sales reps generated the highest revenue?
+How many B2B vs. B2C transactions were made last quarter?
+What is the most common customer feedback?
+How many new suppliers were onboarded last month?
+What is the trend in wholesale vs. retail sales?
+Which advertising channel has the lowest CPA?
+How do sales trends compare year over year?
+What is the impact of free shipping on conversion rates?
+How many customers used discount coupons?
+Which referral sources bring the highest conversion rate?
+What is the engagement rate of our blog articles?
+Which customer support channel is most effective?
+What are the most searched keywords on our website?
+How many first-time customers made a second purchase?
+What is the correlation between ad spend and revenue?
+Which geographic region has the fastest-growing market share?
+What is the percentage of revenue generated from upselling?
+How many customers opted for in-store pickup?
+What is the effect of product bundling on sales?
+Which industry segment has the highest customer demand?
+What are the top reasons for customer churn?
+What is the revenue generated from seasonal sales?
+How many users subscribed to our newsletter last quarter?
+Which customer segments have the highest lifetime value?
+What are the key factors influencing purchase decisions?
+How has customer satisfaction changed over time?
+Which loyalty rewards program is most effective?
+What is the trend in organic vs. paid search traffic?
+How many customers left product reviews in the last month?
+What is the average response time for live chat support?
+How does weather impact product sales?
+What is the conversion rate for limited-time offers?
+How many new partnerships were formed last quarter?
+What percentage of users completed the onboarding process?
+Which pages have the highest drop-off rates?
+What is the effect of negative reviews on sales?
+How many users accessed our site via voice search?
+Which campaigns generated the most social media engagement?
+What is the revenue per visitor for our e-commerce store?
+How do subscription cancellations compare over time?
+Which product features are most requested by customers?
+How does website speed affect conversion rates?
+What is the impact of user-generated content on sales?
+Which sales incentives drive the most conversions?
+What are the busiest shopping hours online?
+How does email personalization affect open rates?
+What percentage of customer inquiries are resolved on first contact?
+Which factors contribute to shopping cart abandonment?
+How do gift card sales impact total revenue?
+What are the emerging trends in consumer behavior?
