@@ -9,7 +9,7 @@ const App = () => {
 
   return (
     <div>
-      <div className="grid grid-row-4 min-h-screen bg-gradient-to-br from-gray-900 to-purple-900">
+      <div className="grid grid-row-4 min-h-700 bg-gradient-to-br from-gray-900 to-purple-900">
         <NavBar/>
         <div className="sticky top-[100px] z-40 bg-gradient-to-br from-gray-900 to-purple-900">
         <QueryInput resultsRef={resultsRef}  />
