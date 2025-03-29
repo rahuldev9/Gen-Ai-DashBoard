@@ -5,6 +5,7 @@ import { addQuery, setResults, setLoading, setError } from "../redux/querySlice"
 const QueryInput = ({ resultsRef }) => {
   const dispatch = useDispatch();
   const [query, setQuery] = useState("");
+  const [errorMessage, setErrorMessage] = useState("")
   const [suggestions, setSuggestions] = useState([]);
   const [filteredSuggestions, setFilteredSuggestions] = useState([]);
   useEffect(() => {
@@ -18,7 +19,9 @@ const QueryInput = ({ resultsRef }) => {
 
   const handleInputChange = (e) => {
     const value = e.target.value;
+    
     setQuery(value);
+    
 
     setFilteredSuggestions(
       value.trim()
@@ -33,6 +36,11 @@ const QueryInput = ({ resultsRef }) => {
   };
 
   const handleQuerySubmit = () => {
+    if (query.trim() === "") {
+        setErrorMessage("Query cannot be empty!");
+      } else {
+        setErrorMessage(""); 
+      }
     if (!query.trim()) return;
     dispatch(addQuery(query));
     dispatch(setLoading());
@@ -154,7 +162,7 @@ const QueryInput = ({ resultsRef }) => {
               onClick={handleQuerySubmit}>
         Submit Query
       </button>
-
+      {errorMessage && <p className="text-red-500 text-sm">{errorMessage}</p>}
       {filteredSuggestions.length > 0 && (
   <ul className="absolute bg-white border border-gray-300 w-full mt-10 rounded-lg shadow-lg max-h-[200px] overflow-y-auto p-2 scrollbar-hide">
     {filteredSuggestions.map((s, index) => (
